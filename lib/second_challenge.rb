@@ -13,7 +13,7 @@ def second_challenge
       :heroine => {},
       :heroine_friends => []
       #your key/value pairs here!
-      }}
-
+      }
+}
   
 end
